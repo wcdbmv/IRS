@@ -1,2 +1,5 @@
+fuzzywuzzy==0.18.0
 jupyter==1.0.0
+lxml==5.2.1
+pandas==2.2.2
 setuptools==69.1.1
